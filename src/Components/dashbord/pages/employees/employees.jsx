@@ -49,7 +49,7 @@ const employees = () => {
     <>
     <button
         className="btn"
-        style={{ border: "none", color: "#fff", marginBottom: "2rem", marginTop: "0.2rem" , direction :"rtl" }}
+        style={{border: "none", color: "#fff", marginBottom: "2rem", marginTop: "0.2rem" , direction :"rtl" }}
       >
         <span>إضافة موظف جديد</span>
       </button>
